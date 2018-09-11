@@ -6,7 +6,9 @@ Utilize applets on IFTT to track location & time data around a specific geofence
 * Color code entries based on missed days.
 
 ## Workflow
-.center[![Screenshot](img/iftt.png)]
+<div align=center>
+![Screenshot](img/iftt.png)
+</div>
 ![Screenshot](img/data.png?style=centerme)
 ![Screenshot](img/calendar.png?style=centerme)
 

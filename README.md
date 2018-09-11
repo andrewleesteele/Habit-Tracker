@@ -2,8 +2,8 @@
 Utilize applets on IFTT to track location & time data around a specific geofence. Location and time data are then recorded as events on a fully functional calendar.
 
 Future functionality:
-*Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from calendar.
-*Color code entries based on missed days.
+* Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from calendar.
+* Color code entries based on missed days.
 
 In order to run:
 

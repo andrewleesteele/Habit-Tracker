@@ -2,8 +2,10 @@
 Utilize applets on IFTT to track location & time data around a specific geofence. Location and time data are then recorded as events on a fully functional calendar.
 
 ## Future functionality
-* Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from calendar.
+* Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from GCal.
 * Color code entries based on missed days.
+* Display metrics such as average time spent at location and if there are trends such as average time spent at location per day/week/month, favored times in the week or month etc.
+
 
 ## Workflow
 

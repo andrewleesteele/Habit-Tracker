@@ -7,14 +7,20 @@ Utilize applets on IFTT to track location & time data around a specific geofence
 
 ## Workflow
 
+#### Download IFTT on App Store or Google Play. Install 'Log how much time you spend at specific locations like the office or home in a spreadsheet' applet. Set geo-fence to location of choice.
 <p align="center">
   <img src="img/iftt.png">
 </p>
-![Screenshot](img/iftt.png)
-![Screenshot](img/data.png?style=centerme)
-![Screenshot](img/calendar.png?style=centerme)
 
+#### Verify data is being recorded into Google Sheet correctly.
+<p align="center">
+  <img src="img/data.png">
+</p>
 
+#### Run Habit-Tracker Web App to see results.
+<p align="center">
+  <img src="img/calendar.png">
+</p>
 
 ## In order to run
 

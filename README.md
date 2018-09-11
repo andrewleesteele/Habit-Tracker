@@ -1,11 +1,11 @@
 # Habit-Tracker
 Utilize applets on IFTT to track location & time data around a specific geofence. Location and time data are then recorded as events on a fully functional calendar.
 
-Future functionality:
+## Future functionality
 * Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from calendar.
 * Color code entries based on missed days.
 
-In order to run:
+## In order to run
 
 Create a virtualenv to run app in:
 
@@ -34,4 +34,6 @@ python main.py
 ```
 
 Check out updated web calendar on your browser of choice at localhost:5000
+
+
 

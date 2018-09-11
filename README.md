@@ -5,6 +5,9 @@ Utilize applets on IFTT to track location & time data around a specific geofence
 * Integrate with Google Calendar. Instead of creating stand-alone calendar, verify if activity was completed and if not, remove listing from calendar.
 * Color code entries based on missed days.
 
+## Workflow 
+![Screenshot](img/IFTT.PNG)
+
 ## In order to run
 
 Create a virtualenv to run app in:

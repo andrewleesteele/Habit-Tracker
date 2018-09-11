@@ -8,7 +8,7 @@ Utilize applets on IFTT to track location & time data around a specific geofence
 ## Workflow
 
 <p align="center">
-  <img width="460" height="300" src="img/iftt.png">
+  <img src="img/iftt.png">
 </p>
 ![Screenshot](img/iftt.png)
 ![Screenshot](img/data.png?style=centerme)
